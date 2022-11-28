@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calci</string>
+    <string name="todo">TODO</string>
+    <string name="enter_first_value">Enter first value</string>
+    <string name="enter_second_value">Enter second value</string>
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="divv">/</string>
+    <string name="ans">ans</string>
+</resources>
